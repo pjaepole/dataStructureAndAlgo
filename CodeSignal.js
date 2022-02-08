@@ -25,3 +25,25 @@ function solution(size) {
     }
     return arr
 }
+
+/* Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
+
+Example
+
+For inputArray = [1, 2, 1], elemToReplace = 1, and substitutionElem = 3, the output should be
+solution(inputArray, elemToReplace, substitutionElem) = [3, 2, 3]. */
+
+function solution(inputArray, elemToReplace, substitutionElem) {
+    for(let i=0;i<inputArray.length; i++){
+        if(inputArray[i]==elemToReplace){
+            inputArray[i]=substitutionElem
+        }
+    }
+    return inputArray
+}
+
+//other solution 
+function solution(inputArray, elemToReplace, substitutionElem) {
+    return inputArray.map(i=> i==elemToReplace ? substitutionElem : i)}
+//what this person did was used map array function to map through the array and if i the element insdie the array is equal to elemToReplace
+//statement is true then it replaces it with substitutionElem if i==elemToReplace is false it leave it be 
