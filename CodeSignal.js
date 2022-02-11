@@ -73,3 +73,21 @@ function solution(arr) {
     arr[arr.length-1]=arrHead
     return arr
 }
+// Concatenate Array
+// Given two arrays of integers a and b, obtain the array formed by the elements of a followed by the elements of b.
+
+// Example
+
+// For a = [2, 2, 1] and b = [10, 11], the output should be
+// solution(a, b) = [2, 2, 1, 10, 11].
+
+function solution(a, b) {
+    let returnArray=[]
+    for(let i of a){
+        returnArray.push(i)
+    }
+    for(let i of b){
+        returnArray.push(i)
+    }
+    return returnArray
+}
