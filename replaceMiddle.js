@@ -35,7 +35,7 @@ function solution(arr) {
 function solution(arr) {
     l = arr.length - 1; //here was where I though it was interesting
     if (l%2) { //so this decided if arr is even or odd if the value is 0 it means it is odd length arr and skips this if function 
-                //and if it is even which means  l%2 have value and which means true runs this if function
+                //and if it is even which means  l%2 have value(something other than 0) and which means true runs this if function
         arr[Math.floor(l/2)] += arr[Math.ceil(l/2)];
         arr.splice(Math.ceil(l/2),1);
     }
