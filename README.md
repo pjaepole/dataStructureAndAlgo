@@ -4,3 +4,5 @@ Practice for coding test and challenges
 working on a task
 3/4/2022
 working with nativebase to make component, and usecontext
+3/5
+working with Lance, pair program
