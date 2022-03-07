@@ -6,3 +6,5 @@ working on a task
 working with nativebase to make component, and usecontext
 3/5
 working with Lance, pair program
+3/6
+going over the code, react native express go over
