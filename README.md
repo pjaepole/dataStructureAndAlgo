@@ -10,3 +10,5 @@ working with Lance, pair program
 going over the code, react native express go over
 3/7
 learning to use react navigation for react native, making custome nav bar using native base,
+3/8
+RTK createSlice and more learning on react navigation
