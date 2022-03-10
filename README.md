@@ -12,3 +12,5 @@ going over the code, react native express go over
 learning to use react navigation for react native, making custome nav bar using native base,
 3/8
 RTK createSlice and more learning on react navigation
+3/9
+making components for the project
