@@ -14,3 +14,5 @@ learning to use react navigation for react native, making custome nav bar using 
 RTK createSlice and more learning on react navigation
 3/9
 making components for the project
+3/10
+finishing up the component and making sorting function + switch case component to display the sorted and organized info
