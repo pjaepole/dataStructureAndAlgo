@@ -16,3 +16,5 @@ RTK createSlice and more learning on react navigation
 making components for the project
 3/10
 finishing up the component and making sorting function + switch case component to display the sorted and organized info
+3/11
+starting to work on a new screen, added react native vector icons
