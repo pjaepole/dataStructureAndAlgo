@@ -18,3 +18,5 @@ making components for the project
 finishing up the component and making sorting function + switch case component to display the sorted and organized info
 3/11
 starting to work on a new screen, added react native vector icons
+3/12
+more studying
