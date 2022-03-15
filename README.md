@@ -22,3 +22,5 @@ starting to work on a new screen, added react native vector icons
 more studying
 3/13
 more typescript, fixing conditional rendering on the component
+3/14
+storybook, adding icons
