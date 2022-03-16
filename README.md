@@ -24,3 +24,5 @@ more studying
 more typescript, fixing conditional rendering on the component
 3/14
 storybook, adding icons
+3/15
+pair program + moreservices screen
