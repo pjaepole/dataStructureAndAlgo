@@ -28,3 +28,5 @@ storybook, adding icons
 pair program + moreservices screen
 3/16
 making utils ts file, component building, JSDOC writing for the util function
+3/17
+3man programming, createSlice for nightmode themeslice
