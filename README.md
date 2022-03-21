@@ -30,3 +30,7 @@ pair program + moreservices screen
 making utils ts file, component building, JSDOC writing for the util function
 3/17
 3man programming, createSlice for nightmode themeslice
+3/18
+theme darkmode create slice
+3/21
+app inactivity time out
