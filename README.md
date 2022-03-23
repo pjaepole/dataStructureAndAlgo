@@ -34,3 +34,5 @@ making utils ts file, component building, JSDOC writing for the util function
 theme darkmode create slice
 3/21
 app inactivity time out
+3/22
+app inactivity timer with modal merged
