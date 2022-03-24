@@ -40,3 +40,5 @@ app inactivity timer with modal merged
 web inactivity timer
 inactivity timer provider in screencontainer instead of navigator
 language t
+3/24
+pull request,i18n stuff (exclude var)
