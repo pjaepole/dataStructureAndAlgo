@@ -44,3 +44,7 @@ language t
 pull request,i18n stuff (exclude var)
 3/25
 demo, make provider for user info verification at 90days
+3/26
+planning,
+3/27
+study js
