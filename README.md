@@ -48,3 +48,5 @@ demo, make provider for user info verification at 90days
 planning,
 3/27
 study js
+3/28
+connecting component with a screen when button pressed,add translation for the component
