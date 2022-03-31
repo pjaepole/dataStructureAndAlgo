@@ -50,3 +50,7 @@ planning,
 study js
 3/28
 connecting component with a screen when button pressed,add translation for the component
+3/29
+making form for user
+3/30
+merge and integrate form with others
