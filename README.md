@@ -54,3 +54,5 @@ connecting component with a screen when button pressed,add translation for the c
 making form for user
 3/30
 merge and integrate form with others
+3/31
+data changed with mock axios get and patch , form finalized and routes
