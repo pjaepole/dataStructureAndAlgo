@@ -58,3 +58,5 @@ merge and integrate form with others
 data changed with mock axios get and patch , form finalized and routes
 4/1
 dmemo, merge with everybody
+4/2
+javascript and formik study
