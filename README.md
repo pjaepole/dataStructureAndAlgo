@@ -67,4 +67,6 @@ refactor, fix bug
 4/5
 app nav fix
 4/7
-signout consolidate pr
+signout consolidate pr/
+4/9
+finish logout
